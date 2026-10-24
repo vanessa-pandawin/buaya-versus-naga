@@ -26,14 +26,14 @@
 <meta name="twitter:title" content="777WZ ♣️ Pilihan Game PPLAY untuk Mobile dan Desktop">
 <meta name="twitter:description" content="Temukan informasi permainan PPLAY melalui 777WZ dengan tampilan adaptif, grafis atraktif, dan antarmuka yang nyaman diakses melalui browser.">
 <meta name="twitter:url" content="https://mccartycounselling.com/service-areas/">
-<meta name="twitter:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg">
+<meta name="twitter:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="777WZ">
 <meta property="og:locale" content="id_ID">
 <meta property="og:url" content="https://mccartycounselling.com/service-areas/">
 <meta property="og:title" content="777WZ ♣️ Pilihan Game PPLAY untuk Mobile dan Desktop">
 <meta property="og:description" content="Temukan informasi permainan PPLAY melalui 777WZ dengan tampilan adaptif, grafis atraktif, dan antarmuka yang nyaman diakses melalui browser.">
-<meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg">
+<meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg">
 <link rel="icon" type="image/png" sizes="96x96" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLm1XpZK4HMJvxgbLFbdxbcAgI1y7xCxdQvKcQY8C-shURjOgSmHfaTbgY_4Rf83pkyh8TC3O-ar0SagPFk3Kbp3yWz5feYumQrMiqU4rcRpraA717yCHpv3egeqcRr6SsBy8RKiXESh-cBu_IxkJGgXp2dLmkfvx95dX14Es7K8StsqIJKPu0XmZDEKLx/w200-h200/11%20(11).jpg">
 <link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLm1XpZK4HMJvxgbLFbdxbcAgI1y7xCxdQvKcQY8C-shURjOgSmHfaTbgY_4Rf83pkyh8TC3O-ar0SagPFk3Kbp3yWz5feYumQrMiqU4rcRpraA717yCHpv3egeqcRr6SsBy8RKiXESh-cBu_IxkJGgXp2dLmkfvx95dX14Es7K8StsqIJKPu0XmZDEKLx/w200-h200/11%20(11).jpg">
 <link rel="apple-touch-icon" sizes="144x144" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLm1XpZK4HMJvxgbLFbdxbcAgI1y7xCxdQvKcQY8C-shURjOgSmHfaTbgY_4Rf83pkyh8TC3O-ar0SagPFk3Kbp3yWz5feYumQrMiqU4rcRpraA717yCHpv3egeqcRr6SsBy8RKiXESh-cBu_IxkJGgXp2dLmkfvx95dX14Es7K8StsqIJKPu0XmZDEKLx/w200-h200/11%20(11).jpg">
@@ -597,8 +597,8 @@
     {
       "@type": "ImageObject",
       "author": "777WZ",
-      "contentUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg",
-      "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg"
+      "contentUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg",
+      "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg"
     }
   ],
   "category": "777WZ < 777WZ  < SLOT GACOR",
@@ -710,7 +710,7 @@
       "@id": "https://mccartycounselling.com/service-areas/#org",
       "name": "777WZ",
       "url": "https://mccartycounselling.com/service-areas/",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg"
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg"
     },
     {
       "@type": "WebSite",
@@ -2938,14 +2938,14 @@ body.mw-flash{animation:mwPageFlash .42s ease-out}
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="Galaxy A07 Front Black ">
              <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="javascript:void(0);">
               <div class="image">
-               <img alt="Galaxy A07 Front Black " class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" data-mobile-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+               <img alt="Galaxy A07 Front Black " class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" data-mobile-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
               </div>
              </a>
             </li>
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="Galaxy A07 Back Black ">
              <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="javascript:void(0);">
               <div class="image">
-               <img alt="Galaxy A07 Back Black " class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" data-mobile-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+               <img alt="Galaxy A07 Back Black " class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" data-mobile-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
               </div>
              </a>
             </li>
@@ -3060,35 +3060,35 @@ body.mw-flash{animation:mwPageFlash .42s ease-out}
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 Front Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+              <img alt="Galaxy A07 Front Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 Back Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+              <img alt="Galaxy A07 Back Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+              <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+              <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+              <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
              </div>
             </a>
            </li>
@@ -3113,63 +3113,63 @@ body.mw-flash{animation:mwPageFlash .42s ease-out}
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </a>
                 </li>
@@ -3184,12 +3184,12 @@ body.mw-flash{animation:mwPageFlash .42s ease-out}
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3199,12 +3199,12 @@ body.mw-flash{animation:mwPageFlash .42s ease-out}
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3214,12 +3214,12 @@ body.mw-flash{animation:mwPageFlash .42s ease-out}
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3229,12 +3229,12 @@ body.mw-flash{animation:mwPageFlash .42s ease-out}
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3244,12 +3244,12 @@ body.mw-flash{animation:mwPageFlash .42s ease-out}
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3259,12 +3259,12 @@ body.mw-flash{animation:mwPageFlash .42s ease-out}
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3274,12 +3274,12 @@ body.mw-flash{animation:mwPageFlash .42s ease-out}
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3289,12 +3289,12 @@ body.mw-flash{animation:mwPageFlash .42s ease-out}
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3304,12 +3304,12 @@ body.mw-flash{animation:mwPageFlash .42s ease-out}
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" role="img"/>
+                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -10940,7 +10940,7 @@ fooster{background:var(--black);color:rgba(255,255,255,.6);font-size:12px}
     <div class="luxury-border"></div>
 
     <div class="Login Slot Gacor">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGDJ-ty86J9cGajnjn8SvQrTVqfmJHyAKfnoHd5pOit_RluMzNN1qApqB_5fFy4kWtOH0YG-IyWGD1jxrNGnQ3aim-iN4lEQUVDiEOZdvuj49Jn8OYLzIfuggTs9_d-pQgPr47IzSN6J8sqtJijsQEtWqzqfc1c16EvCxkPnrpUtvPo950IlXNP-cxULkp/s1600/11%20(8).jpg" alt="Popup Banner" class="popup-image" />
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtaK30ewHmblhr0QkprKQY4nr-vxcl9R1p5zxt8LVgaIaXSPrW0B8AQ-b7pI0aaNRnGYFJvq8W5uWF46W1_UyBwRz7gW3mvqg4mNFgbdRUGG393v5DjWfsZDjarJrR14iofwpWL48VZK_76Ps2riBIxwk45LcKkMIO7S2ZNydGpLhpJXU1LYKALaZrto8/s1600/11%20(10).jpg" alt="Popup Banner" class="popup-image" />
 
       <div class="clk-btn-sgp" style="font-size:20px;">
         <a href="https://buaya-versus-naga.pages.dev/22" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
